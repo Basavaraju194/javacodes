@@ -14,6 +14,7 @@ public class PrintStatements {
 		System.out.println("Println output");
 		System.out.println("Hi Hi How are you");
 		System.out.println("Basavaraju");
+		System.out.print("Basavaraju edited copyyyy");
 
 		
 		System.out.println("Println output");

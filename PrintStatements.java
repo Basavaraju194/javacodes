@@ -14,7 +14,7 @@ public class PrintStatements {
 		System.out.println("Println output");
 		System.out.println("Hi Hi How are you");
 		System.out.println("Basavaraju");
-
+int  a =10;
 		
 		System.out.println("Println output");
 		System.out.printf("the current year is %d and current month is %s and current Date is %d " ,2023,"October",20);
